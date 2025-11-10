@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" width="96" height="96" role="img" aria-labelledby="title desc">
+  <title id="title">Logo Social Media Partners</title>
+  <desc id="desc">Deux maillons entrelacés formant une connexion entre marques et influenceurs.</desc>
+  <defs>
+    <linearGradient id="grad" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#a78bfa"/>
+      <stop offset="100%" stop-color="#60a5fa"/>
+    </linearGradient>
+  </defs>
+  <rect x="8" y="8" width="80" height="80" rx="16" fill="#1f2937"/>
+  <g transform="translate(16,16) rotate(45 32 32)">
+    <rect x="4" y="24" width="44" height="12" rx="6" fill="url(#grad)"/>
+    <rect x="28" y="40" width="44" height="12" rx="6" fill="url(#grad)"/>
+  </g>
+</svg>
